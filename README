@@ -1,0 +1,7 @@
+dhdb-edit - A simple JSON editor for the text terminal
+Copyright (c) 2015 Tommi M. Leino <tleino@me.com>
+
+This is a simple proof of concept of using dhdb - the
+multi-format dynamic and hierarchical database library for
+visually navigating a JSON file and modifying it from the
+text terminal.
